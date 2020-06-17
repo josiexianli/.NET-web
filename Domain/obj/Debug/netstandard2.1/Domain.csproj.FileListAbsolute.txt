@@ -1,0 +1,9 @@
+/Users/xianli/Desktop/Demo/Reactivities/Domain/bin/Debug/netstandard2.1/Domain.deps.json
+/Users/xianli/Desktop/Demo/Reactivities/Domain/bin/Debug/netstandard2.1/Domain.dll
+/Users/xianli/Desktop/Demo/Reactivities/Domain/bin/Debug/netstandard2.1/Domain.pdb
+/Users/xianli/Desktop/Demo/Reactivities/Domain/obj/Debug/netstandard2.1/Domain.csprojAssemblyReference.cache
+/Users/xianli/Desktop/Demo/Reactivities/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfoInputs.cache
+/Users/xianli/Desktop/Demo/Reactivities/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfo.cs
+/Users/xianli/Desktop/Demo/Reactivities/Domain/obj/Debug/netstandard2.1/Domain.csproj.CoreCompileInputs.cache
+/Users/xianli/Desktop/Demo/Reactivities/Domain/obj/Debug/netstandard2.1/Domain.dll
+/Users/xianli/Desktop/Demo/Reactivities/Domain/obj/Debug/netstandard2.1/Domain.pdb

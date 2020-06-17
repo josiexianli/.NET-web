@@ -1,0 +1,14 @@
+/Users/xianli/Desktop/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Application.deps.json
+/Users/xianli/Desktop/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Application.dll
+/Users/xianli/Desktop/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Application.pdb
+/Users/xianli/Desktop/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Domain.dll
+/Users/xianli/Desktop/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Persistence.dll
+/Users/xianli/Desktop/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Domain.pdb
+/Users/xianli/Desktop/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Persistence.pdb
+/Users/xianli/Desktop/Demo/Reactivities/Application/obj/Debug/netstandard2.1/Application.csprojAssemblyReference.cache
+/Users/xianli/Desktop/Demo/Reactivities/Application/obj/Debug/netstandard2.1/Application.AssemblyInfoInputs.cache
+/Users/xianli/Desktop/Demo/Reactivities/Application/obj/Debug/netstandard2.1/Application.AssemblyInfo.cs
+/Users/xianli/Desktop/Demo/Reactivities/Application/obj/Debug/netstandard2.1/Application.csproj.CoreCompileInputs.cache
+/Users/xianli/Desktop/Demo/Reactivities/Application/obj/Debug/netstandard2.1/Application.csproj.CopyComplete
+/Users/xianli/Desktop/Demo/Reactivities/Application/obj/Debug/netstandard2.1/Application.dll
+/Users/xianli/Desktop/Demo/Reactivities/Application/obj/Debug/netstandard2.1/Application.pdb
