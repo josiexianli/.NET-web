@@ -64,3 +64,5 @@
 /Users/xianli/Desktop/Demo/Reactivities/API/bin/Debug/netcoreapp3.1/Persistence.pdb
 /Users/xianli/Desktop/Demo/Reactivities/API/obj/Debug/netcoreapp3.1/API.csproj.CopyComplete
 /Users/xianli/Desktop/Demo/Reactivities/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/xianli/Desktop/Demo/Reactivities/API/bin/Debug/netcoreapp3.1/MediatR.dll
+/Users/xianli/Desktop/Demo/Reactivities/API/bin/Debug/netcoreapp3.1/MediatR.Extensions.Microsoft.DependencyInjection.dll

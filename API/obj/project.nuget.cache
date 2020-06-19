@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "567w5PgtqBqGhtwfeLUNq1+7Gys2llfQ6BwZVgVFQIBafQzEaYdhwkEW0Cffef6PEHseNIxzjFG3gxE7xwsUmg==",
+  "dgSpecHash": "Ah0YUba08pmz+A9O21fJjcmJcX6suTp0AuwlrACurW8x0TrPKMPhJY0rXtLNTLJJ2zkRM/TMW3/FtJRDM0DDlQ==",
   "success": true,
   "projectFilePath": "/Users/xianli/Desktop/Demo/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/xianli/.nuget/packages/mediatr/7.0.0/mediatr.7.0.0.nupkg.sha512",
+    "/Users/xianli/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/7.0.0/mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/xianli/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/xianli/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "/Users/xianli/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
